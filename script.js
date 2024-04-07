@@ -1,13 +1,13 @@
 const quotes = {
-    "- Walt Disney": '"The Way Get Started Is To Quit Talking And Begin Doing."',
-    "- Winston Churchill": '"The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty."',
-    "- Will Rogers": '"Don’t Let Yesterday Take Up Too Much Of Today."',
+    "- Atharva Raut": '"The Way Get Started Is To Quit Talking And Begin Doing."',
+    "- Anuj bhagat": '"The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty."',
+    "- Fayez Erum": '"Don’t Let Yesterday Take Up Too Much Of Today."',
     "- Unknown": '"You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character."',
-    "- Vince Lombardi": '"It’s Not Whether You Get Knocked Down, It’s Whether You Get Up."',
+    "- Sanchi Joshi": '"It’s Not Whether You Get Knocked Down, It’s Whether You Get Up."',
     "- Mahatma Gandhi": '"Live as if you were to die tomorrow. Learn as if you were to live forever"',
     "- Martin Luther King Jr": '"Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that."',
     "- Albert Einstein": '"Strive not to be a success, but rather to be of value."',
-    "- Florence Nightingale": '"I attribute my success to this: I never gave or took any excuse."',
+    "- Unknown": '"I attribute my success to this: I never gave or took any excuse."',
     "- Michael Jordan": '"I missed more than 9000 shots in my career. I lost almost 300 games. 26 times I been trusted to take the game winning shot and missed. I failed over and over and over again in my life. And that is why I succeed."',
     "- Babe Ruth": '"Every strike brings me closer to the next home run."',
     "- John Lennon": '"Life is what happens to you while you’re busy making other plans."',
@@ -31,7 +31,7 @@ const quotes = {
     "- Ralph Waldo Emerson": '"The only person you are destined to become is the person you decide to be."',
     "- Henry David Thoreau": '"Go confidently in the direction of your dreams.  Live the life you have imagined."',
     "- Erma Bombeck": '"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me."',
-    "- Booker T. Washington": '"Few things can help an individual more than to place responsibility on him, and to let him know that you trust him."'
+    "- XYZ": '"Few things can help an individual more than to place responsibility on him, and to let him know that you trust him."'
   };
 
 
